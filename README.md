@@ -16,4 +16,4 @@ How many last touches on the purchase page is each campaign responsible for?
 
 3. CoolTShirts can re-invest in 5 campaigns. Which should they pick and why?
 
-Read more in Marketing-Attribution.pdf file
+Check Marketing-Attribution.pdf file to see the results.
