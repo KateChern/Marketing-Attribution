@@ -1,5 +1,4 @@
 # Marketing-Attribution
-SQLite
 
 CoolTShirts, an innovative apparel shop, is running a bunch of marketing campaigns. In this project, I was be helping them answer these questions about their campaigns:
 
